@@ -1,0 +1,7 @@
+body{
+    background-image: url("image2.jpg");
+}
+#header{
+    font-size:3rem ;
+    font-family: sans-serif;
+}
